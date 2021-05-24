@@ -1,7 +1,13 @@
-Aplicaci髇 escritorio con windowbuilder:
+## Aplicaci贸n escritorio con windowbuilder
+ Pr谩ctica del curso de java; creaci贸n de app para registro y gesti贸n de cursos.
+  -Registro y listado de cursos
+ -Edici贸n y borrado
  
--Registro y listado de cursos
--Edici髇 y borrado
+## Demo
+Archivo ejecutable
+
+
+
 
 
 
